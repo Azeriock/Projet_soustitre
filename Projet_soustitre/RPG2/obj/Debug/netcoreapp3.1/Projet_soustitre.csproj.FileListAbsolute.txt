@@ -1,0 +1,39 @@
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.exe
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.deps.json
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.json
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.dev.json
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csprojAssemblyReference.cache
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfoInputs.cache
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfo.cs
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csproj.CoreCompileInputs.cache
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\Rpg - Copie\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.genruntimeconfig.cache
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.exe
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.deps.json
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.json
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.dev.json
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csprojAssemblyReference.cache
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfoInputs.cache
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfo.cs
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csproj.CoreCompileInputs.cache
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.genruntimeconfig.cache
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.exe
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.deps.json
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.json
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.runtimeconfig.dev.json
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\bin\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csprojAssemblyReference.cache
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfoInputs.cache
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.AssemblyInfo.cs
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.csproj.CoreCompileInputs.cache
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.dll
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.pdb
+C:\Users\Loic\Desktop\c#\Projet_soustitre\RPG2\obj\Debug\netcoreapp3.1\Projet_soustitre.genruntimeconfig.cache

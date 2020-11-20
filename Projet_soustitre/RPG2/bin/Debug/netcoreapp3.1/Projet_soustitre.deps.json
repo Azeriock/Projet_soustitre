@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projet_soustitre/1.0.0": {
+        "runtime": {
+          "Projet_soustitre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projet_soustitre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
